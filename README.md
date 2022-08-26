@@ -28,7 +28,7 @@
 Ejercicio de la semana 8 de la certificación en programaciòn Full Stack MERN del MITxpro
 
 
-[Demo](https://grburgos68.github.io/PacmenFactory/)
+[Demo](https://grburgos68.github.io/EyeMovement/)
 
 
 ## :dart: Features ##

@@ -1,10 +1,3 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="PacmenFactory" />
-
-  &#xa0;
-
-  <!-- <a href="https://pacmenfactory.netlify.app">Demo</a> -->
-</div>
 
 <h1 align="center">Eye movement</h1>
 
@@ -43,7 +36,7 @@ Ejercicio de la semana 8 de la certificación en programaciòn Full Stack MERN d
 
 		  
 :heavy_check_mark: resize the eyes when the screen size is modified;\
-:heavy_check_mark: incorporate size control;\
+:heavy_check_mark: incorporate size control
 
 
 ## :rocket: Technologies ##

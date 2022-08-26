@@ -61,7 +61,7 @@ Before starting :checkered_flag:, you need to have [GitHub](https://img.shields.
 $ git clone https://github.com/{{grburgos68}}/eyemovement
 
 # Access
-$ cd pacmenfactory
+$ cd eyemovement
 
 # Install dependencies
 $ yarn
